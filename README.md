@@ -5,11 +5,13 @@
 - Builder
 - AbstractFactory
 - ProtoType
+
 ***Structural Patterns***
 - Facade
 - Proxy
 - Adapter
 - Decorator
+
 ***Behaviour Patterns***
 - Iterator
 - Strategy
