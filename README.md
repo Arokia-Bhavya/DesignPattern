@@ -11,8 +11,11 @@
 - Proxy
 - Adapter
 - Decorator
+- Bridge
+- Composite
 
 ***Behaviour Patterns***
+- Chain Of Responsibility
 - Iterator
 - Strategy
 - Observer
